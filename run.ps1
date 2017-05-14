@@ -1,0 +1,1 @@
+docker run -d -p 5672:5672 -p 4369:4369 -p 35197:35197 -p 15672:15672 --name rabbitmq1 myslik/rabbitmq
